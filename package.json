@@ -1,0 +1,19 @@
+{
+  "name": "mapbox-studio-looseleaf",
+  "version": "1.0.0",
+  "description": "Looseleaf style for Mapbox Studio.",
+  "main": "package.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mapbox/mapbox-studio-looseleaf.tm2.git"
+  },
+  "keywords": [
+    "mapbox",
+    "map"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mapbox/mapbox-studio-looseleaf.tm2/issues"
+  },
+  "homepage": "https://github.com/mapbox/mapbox-studio-looseleaf.tm2"
+}

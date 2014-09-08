@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80"
+   height="130"
+   id="svg3386"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="shields.svg">
+  <defs
+     id="defs3388">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4960">
+      <rect
+         y="445.36218"
+         x="425"
+         height="0.99999762"
+         width="24"
+         id="rect4962"
+         style="color:#000000;fill:#00ccff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4952">
+      <rect
+         y="425.36218"
+         x="425"
+         height="0.9999972"
+         width="19"
+         id="rect4954"
+         style="color:#000000;fill:#00ccff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4451">
+      <rect
+         style="color:#000000;fill:#00ccff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4453"
+         width="24"
+         height="2.9999948"
+         x="425"
+         y="442.36218" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4465">
+      <rect
+         style="color:#000000;fill:#00ccff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4467"
+         width="19"
+         height="3"
+         x="425"
+         y="422.36218" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4445">
+      <rect
+         style="color:#000000;fill:#00ccff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4447"
+         width="24"
+         height="14.000003"
+         x="425"
+         y="445.36218" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4390">
+      <rect
+         style="fill:#d40000;fill-opacity:1;stroke:none"
+         id="rect4392"
+         width="27"
+         height="20"
+         x="206"
+         y="228.36218" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4443">
+      <rect
+         style="fill:#d40000;fill-opacity:1;stroke:none"
+         id="rect4445"
+         width="33"
+         height="20"
+         x="206"
+         y="228.36218" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-129.45327"
+     inkscape:cy="111.49144"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="false"
+     inkscape:object-nodes="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3524"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-165px"
+       originy="-705px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3391">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="under"
+     style="display:none">
+    <rect
+       style="opacity:0.85;fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect4031"
+       width="80"
+       height="110"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-165,-217.36218)">
+    <rect
+       style="fill:#ff4040;fill-opacity:0;stroke:none"
+       id="rect3526"
+       width="29"
+       height="24"
+       x="170"
+       y="222.36218"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_highway_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#000363;fill-opacity:1;fill-rule:evenodd;stroke:#000363;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 176.34193,224.36218 c 2.44741,2.5 5.71061,2.5 8.16013,0 2.44529,2.5 5.70849,2.5 8.1559,0 l 4.079,4.16668 c -3.26321,4.16666 3.2632,7.5 -1.6316,12.5 -3.2632,3.33332 -6.52641,0 -10.6033,3.33332 -4.08113,-3.33332 -7.34432,0 -10.60753,-3.33332 -4.8948,-5 1.63161,-8.33334 -1.62737,-12.5 z"
+       id="path4342"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_highway_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path5014"
+       d="m 176.34193,224.36218 c 2.44741,2.5 5.71061,2.5 8.16013,0 2.44529,2.5 5.70849,2.5 8.1559,0 l 4.079,4.16668 c -3.26321,4.16666 3.2632,7.5 -1.6316,12.5 -3.2632,3.33332 -6.52641,0 -10.6033,3.33332 -4.08113,-3.33332 -7.34432,0 -10.60753,-3.33332 -4.8948,-5 1.63161,-8.33334 -1.62737,-12.5 z"
+       style="color:#000000;fill:#fefef1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_highway_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ac9393;fill-opacity:0;stroke:none"
+       id="rect4350"
+       width="29"
+       height="28"
+       x="170"
+       y="252.36218"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_interstate_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#2c5aa0;fill-opacity:1;fill-rule:evenodd;stroke:#fefef1;stroke-width:3.59999989999999981;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1"
+       d="m 184.5,254.36218 c 3.5,2.5 7.5,1.5 10,0 8.5,16 -5.5,22 -10,23 -4.5,-1 -18.5,-7 -10,-23 2.5,1.5 6.5,2.5 10,0 z"
+       id="path4381"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       clip-path="none"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_interstate_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       clip-path="url(#clipPath4390)"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4616"
+       d="m 219.5,224.36218 c 3.5,2.5 7.5,1.5 10,0 8.5,16 -5.5,22 -10,23 -4.5,-1 -18.5,-7 -10,-23 2.5,1.5 6.5,2.5 10,0 z"
+       style="color:#000000;fill:#000363;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(-35,30)"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_interstate_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#ff5f51;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       clip-path="none"
+       d="m 174.5,254.375 c -0.65484,1.23264 -1.16011,2.38378 -1.5625,3.5 l 23.125,0 c -0.40239,-1.11622 -0.90766,-2.26736 -1.5625,-3.5 -2.5,1.5 -6.5,2.5 -10,0 -3.5,2.5 -7.5,1.5 -10,0 z"
+       id="path4383"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_interstate_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#fefef1;fill-opacity:1;stroke:none"
+       id="rect4394"
+       width="25"
+       height="1.5"
+       x="172"
+       y="257.86218"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_interstate_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="252.36218"
+       x="200"
+       height="28"
+       width="35"
+       id="rect4424"
+       style="fill:#ac9393;fill-opacity:0;stroke:none" />
+    <path
+       clip-path="none"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4426"
+       d="m 217.5,254.36218 c 3.5,2.5 10.5,1.5 13,0 8.5,16 -5.5,22 -13,23 -7.5,-1 -21.5,-7 -13,-23 2.5,1.5 9.5,2.5 13,0 z"
+       style="color:#000000;fill:#2c5aa0;fill-opacity:1;fill-rule:evenodd;stroke:#fefef1;stroke-width:3.59999989999999981;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_interstate_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#000363;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 222.5,224.36218 c 3.5,2.5 10.5,1.5 13,0 8.5,16 -5.5,22 -13,23 -7.5,-1 -21.5,-7 -13,-23 2.5,1.5 9.5,2.5 13,0 z"
+       id="path4428"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       clip-path="url(#clipPath4443)"
+       transform="translate(-5,30)"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_interstate_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path4430"
+       d="m 204.5,254.375 c -0.65484,1.23264 -1.16011,2.38378 -1.5625,3.5 l 29.125,0 c -0.40239,-1.11622 -0.90766,-2.26736 -1.5625,-3.5 -2.5,1.5 -9.5,2.5 -13,0 -3.5,2.5 -10.5,1.5 -13,0 z"
+       clip-path="none"
+       style="color:#000000;fill:#ff5f51;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_interstate_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="rect4432"
+       d="m 202,257.86218 31,0 0,1.5 -31,0 z"
+       style="fill:#fefef1;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_interstate_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#808080;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4477"
+       width="29"
+       height="22"
+       x="170"
+       y="282.36218"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_state_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="9"
+       rx="12.5"
+       y="284.36218"
+       x="172"
+       height="18"
+       width="25"
+       id="rect4463"
+       style="color:#000000;fill:#000363;fill-opacity:1;fill-rule:evenodd;stroke:#000363;stroke-width:2.59999989999999981;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_state_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#fefef1;fill-opacity:1;stroke:none"
+       id="rect4448"
+       width="25"
+       height="18"
+       x="172"
+       y="284.36218"
+       rx="12.5"
+       ry="9"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_state_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="282.36218"
+       x="202"
+       height="22"
+       width="36"
+       id="rect4486"
+       style="color:#000000;fill:#808080;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_state_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000363;stroke-width:2.59999989999999981;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4504"
+       width="32.111111"
+       height="18"
+       x="203.88889"
+       y="284.36218"
+       rx="16.055555"
+       ry="9"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_state_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="9"
+       rx="16.055555"
+       y="284.36218"
+       x="203.88889"
+       height="18"
+       width="32.111111"
+       id="rect4490"
+       style="fill:#fefef1;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/shield/us_state_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.85;fill:#fefef1;fill-opacity:1;stroke:none"
+       id="rect4145"
+       width="12"
+       height="6.9999919"
+       x="29"
+       y="234.36218"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/wetland-lrg.png"
+       inkscape:export-xdpi="180.0002"
+       inkscape:export-ydpi="180.0002" />
+    <rect
+       style="opacity:0.84999999999999998;fill:#000363;fill-opacity:1;stroke:none"
+       id="rect4147"
+       width="6"
+       height="1"
+       x="32"
+       y="237.36218"
+       inkscape:export-filename="/Users/tristen/dev/maps/roadtrip.tm2/img/wetland-lrg.png"
+       inkscape:export-xdpi="180.0002"
+       inkscape:export-ydpi="180.0002" />
+  </g>
+</svg>

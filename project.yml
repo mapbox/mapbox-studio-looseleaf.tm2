@@ -1,0 +1,28 @@
+_prefs: 
+  baselayer: ''
+  saveCenter: true
+_properties: {}
+attribution: TM2
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -46.635417938232415
+  - -23.555175386794573
+  - 13
+description: ''
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 18
+minzoom: 0
+name: Loose leaf
+source: "mapbox:///mapbox.mapbox-terrain-v1,mapbox.mapbox-streets-v4"
+styles: 
+  - style.mss
+  - roads.mss
+  - terrain.mss
+  - labels.mss
+template: ''
