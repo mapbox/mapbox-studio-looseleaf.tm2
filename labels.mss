@@ -1,7 +1,7 @@
 // Languages: name (local), name_en, name_fr, name_es, name_de
 @name: '[name_en]';
-@serif: 'Droid Serif Bold', @fallback;
 @fallback: 'Arial Unicode MS Regular';
+@serif: 'Droid Serif Bold', @fallback;
 @sans: 'Roboto Bold Condensed', @fallback;
 @sans_it: 'Roboto Bold Condensed Italic', @fallback;
 @sans_bd: 'Roboto Black', @fallback;
@@ -14,7 +14,7 @@
   	text-wrap-before: true;
   	text-fill: @darkblue;
   	text-size: 14;
-  	text-halo-fill:	#fefef1;
+  	text-halo-fill: @bright;
 	text-halo-radius: 2px;
   	[zoom>=4][scalerank=1],
   	[zoom>=5][scalerank=2],
@@ -44,10 +44,11 @@
     text-character-spacing: 1;
   	}
   [zoom>=6] {
-	text-size: 13px;
+	text-size: 14px;
     text-wrap-width: 50;
     text-character-spacing: 4;
   }
+  [zoom>=8] { text-size: 18px; }
 }
 
 #place_label {
@@ -55,8 +56,8 @@
     text-name: @name;
     text-face-name: @serif;
     text-fill: @darkblue;
-    text-halo-fill:	#fefef1;
-    text-halo-radius: 2px;
+    text-halo-fill: @bright;
+    text-halo-radius: 2.5px;
     text-size: 13;
     text-line-spacing: -5px;
     text-wrap-width: 200;
@@ -69,6 +70,8 @@
     [scalerank=0],
     [scalerank=1] {
 		[zoom>=7] { text-size: 18; }
+        [zoom>=9] { text-size: 20; }
+        [zoom>=10] { text-size: 22; }
 		[zoom>=11] {
         	text-size: 24;
             text-halo-radius: 3px;
@@ -82,7 +85,7 @@
     text-fill: @darkblue;
     text-size: 14;
     text-wrap-width: 100;
-	text-halo-fill:	#fefef1;
+	text-halo-fill:	@bright;
     text-halo-radius: 2px;
     text-wrap-before: true;
   }
@@ -90,7 +93,7 @@
     text-name: @name;
     text-face-name: @serif;
     text-fill: @darkblue;
-	text-halo-fill:	#fefef1;
+	text-halo-fill:	@bright;
     text-halo-radius: 2px;
     text-size: 12;
     text-wrap-width: 100;
@@ -98,20 +101,25 @@
     [zoom>=12] { text-size: 14; }
     [zoom>=14] { text-size: 18; }
   }
-  [type='hamlet'],
-  [type='suburb'],
-  [type='neighbourhood'] {
+  [type='hamlet'][zoom<=17],
+  [type='suburb'][zoom<=17],
+  [type='neighbourhood'][zoom<=17] {
     text-name: @name;
     text-face-name: @serif;
     text-fill: @darkblue;
-	text-halo-fill:	#fefef1;
+	text-halo-fill: @bright;
     text-halo-radius: 2px;
     text-size: 13;
     text-wrap-width: 100;
     text-wrap-before: true;
-	[zoom=14] { text-size: 15; }
-	[zoom=15] { text-size: 18; text-halo-radius: 3px; }
-	[zoom>=16] { text-size: 20; text-halo-radius: 3px; }
+	[zoom>=13] {
+      text-size: 14;
+      text-wrap-width:150;
+      text-halo-radius: 3px;
+    }
+    [zoom>=14] { text-size: 16; }
+    [zoom>=15] { text-size: 18; }
+	[zoom>=16] { text-size: 22; }
   }
 }
 
@@ -137,8 +145,8 @@
     [zoom>=17] {
       text-name: @name;
       text-face-name: @serif;
-      text-fill: #ff5f51;
-      text-halo-fill:#fefef1;
+      text-fill: @red;
+      text-halo-fill: @bright;
       text-size: 13;
       text-wrap-width: 100;
       text-wrap-before: true;
@@ -206,7 +214,7 @@
     text-fill: @darkblue;
     text-placement: line;
     text-avoid-edges: true;
-    text-halo-fill: #fefef1;
+    text-halo-fill: @bright;
     text-halo-radius: 2;
     text-min-distance: 200;
     text-size: 12;
@@ -228,17 +236,17 @@
 #water_label {
   [zoom<=13],  // automatic area filtering @ low zooms
   [zoom>=14][area>500000],
-  [zoom>=16][area>10000],
-  [zoom>=17] {
+  [zoom>=16][area>10000] {
     text-name: @name;
     text-face-name: @sans_it;
     text-fill: @red;
-	text-halo-fill: #fefef1;
+	text-halo-fill: @bright;
     text-halo-radius: 2px;
     text-size: 12;
     text-wrap-width: 100;
     text-wrap-before: true;
     text-line-spacing: -2;
+    [zoom>=10] { text-size: 16; }
   }
 }
 
@@ -260,13 +268,13 @@
     [zoom>=14] { text-wrap-width: 110; }
     [zoom>=15] { text-wrap-width: 120; }
 	[type='Military'],[maki='cemetery'],[maki='college'] {
-      text-fill: darken(@tan, 50%);
+      text-fill: darken(@orange, 35%);
     }
     [type='Island'],[maki='park'],[maki='zoo'],[maki='golf'] {
-      text-fill: darken(@park, 25%);
+      text-fill: darken(@park, 35%);
     }
 	text-fill: @red;
-	text-halo-fill: #fefef1;
+	text-halo-fill: @bright;
     text-halo-radius: 2px;
     text-line-spacing: -2;
     [scalerank=1] {
@@ -297,7 +305,7 @@
     text-name: @name;
     text-face-name: @sans_bd;
     text-fill: @darkblue;
-    text-halo-fill: #fefef1;
+    text-halo-fill: @bright;
     text-halo-radius: 2px;
     text-halo-rasterizer: fast;
     text-size: 14;
@@ -316,7 +324,7 @@
   text-name: "''";
   text-size: 10;
   text-fill: @darkblue;
-  text-halo-fill: #fefef1;
+  text-halo-fill: @bright;
   text-halo-radius: 2px;
   text-face-name: @sans_it;
   text-line-spacing: -2;

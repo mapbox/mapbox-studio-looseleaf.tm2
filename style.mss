@@ -1,8 +1,10 @@
 @water: #8bdcd4;
 @park: #b5d378;
 @tan: #f1edcd;
+@bright: #fefef9;
 @darkblue: #000363;
 @red: #ff5f51;
+@orange: #fbb958;
 
 Map {
   background-color:#fefef1;
@@ -57,18 +59,18 @@ Map {
   	[zoom>=16] { polygon-pattern-file:url(img/wetland-lrg.png); }
 }
 
-#landuse {
+#landuse[zoom>=9] {
 	polygon-pattern-file:url(img/noise.png);
 	polygon-pattern-alignment:global;
-	[class='park'][zoom>=9] {
+	[class='park'] {
     	polygon-fill: @park;
     	polygon-opacity: 0.75;
   	}
-  	[class='industrial'][zoom>=11] {
-    	polygon-fill: #fbb958;
+  	[class='industrial'] {
+    	polygon-fill: @orange;
     	polygon-opacity:0.75;
   	}
-  	[class='cemetery'][zoom>=12] {
+  	[class='cemetery'] {
 		polygon-fill: darken(@tan, 10%);
   	}
 }
