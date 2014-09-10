@@ -1,6 +1,6 @@
 {
   "name": "mapbox-studio-looseleaf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Looseleaf style for Mapbox Studio.",
   "main": "package.json",
   "repository": {
