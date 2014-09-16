@@ -5,7 +5,7 @@
 <Parameters>
   <Parameter name="attribution"><![CDATA[<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>]]></Parameter>
   <Parameter name="bounds">-180,-85.0511,180,85.0511</Parameter>
-  <Parameter name="center">-0.12668609619140625,51.50270552998373,13</Parameter>
+  <Parameter name="center">-79.38424587249756,43.63794645835803,17</Parameter>
   <Parameter name="format">png8:m=h</Parameter>
   <Parameter name="maxzoom">18</Parameter>
   <Parameter name="minzoom">0</Parameter>
@@ -1378,7 +1378,7 @@
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
-    <TextSymbolizer fontset-name="fontset-0" fill="#309e93" size="13" wrap-width="100" wrap-before="true" ><![CDATA[[name_en]]]></TextSymbolizer>
+    <TextSymbolizer fontset-name="fontset-1" fill="#309e93" halo-fill="#fefef9" halo-radius="2" size="13" wrap-width="100" wrap-before="true" ><![CDATA[[name_en]]]></TextSymbolizer>
   </Rule>
 </Style>
 <Layer name="water_label"

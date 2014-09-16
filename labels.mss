@@ -129,8 +129,10 @@
   [zoom>=16][area>10000],
   [zoom>=17] {
     text-name: @name;
-    text-face-name: @serif;
+    text-face-name: @sans_it;
     text-fill: darken(@water, 30%);
+    text-halo-fill: @bright;
+    text-halo-radius: 2px;
     text-size: 13;
     text-wrap-width: 100;
     text-wrap-before: true;
@@ -147,6 +149,7 @@
       text-face-name: @serif;
       text-fill: @red;
       text-halo-fill: @bright;
+      text-halo-radius: 2px;
       text-size: 13;
       text-wrap-width: 100;
       text-wrap-before: true;
@@ -215,7 +218,7 @@
     text-placement: line;
     text-avoid-edges: true;
     text-halo-fill: @bright;
-    text-halo-radius: 2;
+    text-halo-radius: 2px;
     text-min-distance: 200;
     text-size: 12;
     [zoom>=15] { text-size: 14; }
